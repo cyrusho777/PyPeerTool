@@ -1,5 +1,6 @@
 # PyPeer
 peer group comparison tool by inputting stock ticker
+REQUIRES Virtual Env (Pandas/Requests libraries)
 
 HOW TO USE:
 Run the Code, the user_input() function will prompt you for the ticker name (e.g. 'AAPL')
